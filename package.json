@@ -1,0 +1,27 @@
+{
+  "name": "@takadotdev/validator",
+  "version": "1.0.0",
+  "description": "package for validation",
+  "main": "index.js",
+  "scripts": {
+    "validate": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takachan0012/validator.git"
+  },
+  "keywords": [
+    "validator",
+    "validation",
+    "validate"
+  ],
+  "author": "takadotdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takachan0012/validator/issues"
+  },
+  "homepage": "https://github.com/takachan0012/validator#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
